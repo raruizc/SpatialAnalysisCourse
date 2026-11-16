@@ -11,4 +11,4 @@ This repository contains materials for a **spatial analysis course** offered by 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Spatial_Analysis_Course_UFLA.git
+   git clone https://github.com/raruizc/SpatialAnalysisCourse.git
